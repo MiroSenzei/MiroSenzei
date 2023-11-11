@@ -3,8 +3,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MiroSenzei&base=190238&color=ff69b4&style=for-the-badge" alt="MiroSenzei" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MiroSenzei&base=190238&color=blueviolet&style=for-the-badge" alt="MiroSenzei" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MiroSenzei&base=190238&label=Subscribers&color=brightgreen&style=for-the-badge" alt="MiroSenzei" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MiroSenzei&base=20238&label=Likes&color=blueviolet&style=for-the-badge" alt="MiroSenzei" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MiroSenzei&base=1902&label=Subscriber&color=brightgreen&style=for-the-badge" alt="MiroSenzei" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MiroSenzei&theme=dark_lover" alt="MiroSenzei" /></a> </p>
 
